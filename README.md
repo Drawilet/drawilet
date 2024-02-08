@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **drawiletdev@gmail.com**
 
-**🚀 Let's code! 📫 Connect with me!**
+**🚀 Let's code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
