@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [tickletimeplanner](https://github.com/Drawilet/tickletimeplanner)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Vue**
 
 - 👨‍💻 All of my projects are available at [https://drawilet.me/](https://drawilet.me/)
 
-- 💬 Ask me about **react, next.js, express, discord.js, mongodb, mysql**
+- 💬 Ask me about **react, next.js, express, discord.js, mongodb, mysql and laravel**
 
 - 📫 How to reach me **drawiletdev@gmail.com**
 
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drawilet&show_icons=true&locale=en" alt="drawilet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drawilet&" alt="drawilet" /></p>
+
